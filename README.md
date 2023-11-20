@@ -1,4 +1,4 @@
-# Biological Resource Schema Ontology
+# Biological Resource Schema Ontology(BRSO)
 バイオリソース情報における共通項目部分をRDF化するために、理研バイオリソース研究センター、遺伝学研究所、その他関係機関と協力して、開発を進めているオントロジー
 
 ## Schema
